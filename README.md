@@ -21,3 +21,8 @@ marketing_campaign.csv
 
 ### Columns: 
 MarketID, MarketSize, LocationID, AgeOfStore, Promotion, week, SalesInThousands
+
+### Deliverable: 
+Data downloaded, cleaned (if needed), and imported into Tableau.
+
+
