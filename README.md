@@ -12,3 +12,8 @@ The marketing team of a fast-food chain is preparing to launch a new item but is
 ### Impact
 Choosing the right promotional strategy can directly improve product launch success, reduce marketing spend inefficiency, and improve return on investment (ROI).
 
+# Dataset Source
+
+# Source: Kaggle dataset: Fast Food Marketing Campaign A/B Test
+# File: marketing_campaign.csv
+# Columns: MarketID, MarketSize, LocationID, AgeOfStore, Promotion, week, SalesInThousands
