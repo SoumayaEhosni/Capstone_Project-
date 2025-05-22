@@ -15,7 +15,9 @@ Choosing the right promotional strategy can directly improve product launch succ
 # Dataset Source
 ### Source: 
 Kaggle dataset: Fast Food Marketing Campaign A/B Test
+
 ### File: 
 marketing_campaign.csv
+
 ### Columns: 
 MarketID, MarketSize, LocationID, AgeOfStore, Promotion, week, SalesInThousands
