@@ -36,12 +36,12 @@ MarketID, MarketSize, LocationID, AgeOfStore, Promotion, week, SalesInThousands
 ## 🔍 Key Insights Summary
 
 - 📈 **Promotion 1** achieved the **highest average weekly sales** and demonstrated **stable performance over time**, making it the most reliable campaign overall.
-- 🧭 **Promotion 3** showed strong results in **small markets** and **older stores**, indicating potential for **targeted regional deployment**.
-- 📉 **Promotion 2** underperformed across all segments and experienced a **notable decline in Week 4**, suggesting it lacks lasting impact.
-- 🌍 **Large markets** and **new stores** responded especially well to **Promotion 1**, reinforcing its strength for a **national rollout**.
-- 🏙️ In **medium markets**, **Promotions 1 and 3** were close in performance, offering some flexibility for regional adaptation.
-- 🧓 **Older stores** favored **Promotion 3**, while **newer stores** responded best to **Promotions 1 and 3**, hinting at differentiated engagement by store maturity.
-- 📊 **Trend analysis** showed Promotion 1 retained engagement through Week 4, unlike Promotion 2, which steadily declined.
+- **Promotion 3** showed strong results in **small markets** and **older stores**, indicating potential for **targeted regional deployment**.
+- **Promotion 2** underperformed across all segments and experienced a **notable decline in Week 4**, suggesting it lacks lasting impact.
+- **Large markets** and **new stores** responded especially well to **Promotion 1**, reinforcing its strength for a **national rollout**.
+- In **medium markets**, **Promotions 1 and 3** were close in performance, offering some flexibility for regional adaptation.
+- **Older stores** favored **Promotion 3**, while **newer stores** responded best to **Promotions 1 and 3**, hinting at differentiated engagement by store maturity.
+- **Trend analysis** showed Promotion 1 retained engagement through Week 4, unlike Promotion 2, which steadily declined.
 
 ---
 
