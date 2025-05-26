@@ -29,7 +29,7 @@ MarketID, MarketSize, LocationID, AgeOfStore, Promotion, week, SalesInThousands
 > An interactive Tableau dashboard was created to explore weekly trends, market segment performance, and promotion effectiveness across store types.
 
 🔗 **View the Dashboard:**  
-👉 [View on Tableau Public](https://public.tableau.com/views/YOUR_DASHBOARD_LINK)
+👉 [View on Tableau Public](https://public.tableau.com/app/profile/soumaya.elhosni/viz/Promotion_Strategy_Analysis/PerformanceDashboard?publish=yes)
 
 ---
 
